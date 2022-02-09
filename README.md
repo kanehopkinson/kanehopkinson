@@ -1,4 +1,4 @@
-hi, i'm kane, just an average use
+hi, i'm kane, just an average user
 
 <!---
 kanehopkinson/kanehopkinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
